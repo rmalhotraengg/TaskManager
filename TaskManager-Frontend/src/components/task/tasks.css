@@ -1,0 +1,24 @@
+ 
+
+.tasks{ 
+   margin-left:"1px";
+   border: 1px solid white;
+   max-height: 600px;
+   height: 600px;
+   width: 28rem;
+   padding: 20px;
+   border-radius: 10px;   
+   overflow-y: scroll;
+
+}
+
+.form{ 
+    margin-left:"1px";
+    border: 1px solid white;
+    max-height: 600px;
+    height: 600px;
+    width: 28rem;
+    padding: 20px;    
+   border-radius: 10px;
+ 
+ }

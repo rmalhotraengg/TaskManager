@@ -1,0 +1,17 @@
+li{
+  text-decoration: none;    
+  display: inline-block;
+  padding: 7px; 
+  margin-left: 60px;
+  a{
+    color: aliceblue;
+  }
+  }
+  
+  .navigation{ 
+      background-color: black  !important;
+  } 
+
+  .container{
+    margin-top: 100px;
+  }

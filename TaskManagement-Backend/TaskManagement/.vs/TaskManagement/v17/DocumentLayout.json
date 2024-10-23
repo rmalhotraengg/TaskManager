@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\TaskManagement\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159BB693-814A-4E8F-B62A-68E51D5DB3D4}|..\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|w:\\taskmanagement\\taskmanagement.infrastructure\\applicationdbcontext\\cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20241022222011_TaskMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F616D-26F7-4B95-85B6-83AA12BA0998}|..\\TaskManagement.API\\TaskManagement.API.csproj|w:\\taskmanagement\\taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F616D-26F7-4B95-85B6-83AA12BA0998}|..\\TaskManagement.API\\TaskManagement.API.csproj|w:\\taskmanagement\\taskmanagement.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA49FC-A3EE-4168-B4BB-354C0AFDE4ED}|..\\TaskManagement.Application\\TaskManagement.Application.csproj|w:\\taskmanagement\\taskmanagement.application\\dto\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA49FC-A3EE-4168-B4BB-354C0AFDE4ED}|..\\TaskManagement.Application\\TaskManagement.Application.csproj|w:\\taskmanagement\\taskmanagement.application\\dto\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA49FC-A3EE-4168-B4BB-354C0AFDE4ED}|..\\TaskManagement.Application\\TaskManagement.Application.csproj|w:\\taskmanagement\\taskmanagement.application\\services\\taskadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA49FC-A3EE-4168-B4BB-354C0AFDE4ED}|..\\TaskManagement.Application\\TaskManagement.Application.csproj|w:\\taskmanagement\\taskmanagement.application\\servicecontracts\\itaskadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159BB693-814A-4E8F-B62A-68E51D5DB3D4}|..\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|w:\\taskmanagement\\taskmanagement.infrastructure\\repositories\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159BB693-814A-4E8F-B62A-68E51D5DB3D4}|..\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|w:\\taskmanagement\\taskmanagement.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159BB693-814A-4E8F-B62A-68E51D5DB3D4}|..\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|w:\\taskmanagement\\taskmanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0CA7E-F97A-4213-8709-970C781C3A7E}|..\\TaskManagement.Domain\\TaskManagement.Domain.csproj|w:\\taskmanagement\\taskmanagement.domain\\repositoryinterfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0CA7E-F97A-4213-8709-970C781C3A7E}|..\\TaskManagement.Domain\\TaskManagement.Domain.csproj|w:\\taskmanagement\\taskmanagement.domain\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0CA7E-F97A-4213-8709-970C781C3A7E}|..\\TaskManagement.Domain\\TaskManagement.Domain.csproj|w:\\taskmanagement\\taskmanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0CA7E-F97A-4213-8709-970C781C3A7E}|..\\TaskManagement.Domain\\TaskManagement.Domain.csproj|w:\\taskmanagement\\taskmanagement.domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.API\\Program.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.API\\Program.cs",
+              "RelativeToolTip": "..\\TaskManagement.API\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:49:09.953Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDDbContext.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Infrastructure\\ApplicationDbContext\\CRUDDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Infrastructure\\ApplicationDbContext\\CRUDDbContext.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Infrastructure\\ApplicationDbContext\\CRUDDbContext.cs",
+              "RelativeToolTip": "..\\TaskManagement.Infrastructure\\ApplicationDbContext\\CRUDDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:20:20.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241022222011_TaskMigration.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20241022222011_TaskMigration.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Infrastructure\\Migrations\\20241022222011_TaskMigration.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20241022222011_TaskMigration.cs",
+              "RelativeToolTip": "..\\TaskManagement.Infrastructure\\Migrations\\20241022222011_TaskMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:20:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "..\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:17:59.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Application\\DTO\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Application\\DTO\\TaskResponse.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Application\\DTO\\TaskResponse.cs",
+              "RelativeToolTip": "..\\TaskManagement.Application\\DTO\\TaskResponse.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:15:01.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRequest.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Application\\DTO\\TaskRequest.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Application\\DTO\\TaskRequest.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Application\\DTO\\TaskRequest.cs",
+              "RelativeToolTip": "..\\TaskManagement.Application\\DTO\\TaskRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:14:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskAdderService.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Application\\Services\\TaskAdderService.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Application\\Services\\TaskAdderService.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Application\\Services\\TaskAdderService.cs",
+              "RelativeToolTip": "..\\TaskManagement.Application\\Services\\TaskAdderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:14:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskAdderService.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Application\\ServiceContracts\\ITaskAdderService.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Application\\ServiceContracts\\ITaskAdderService.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Application\\ServiceContracts\\ITaskAdderService.cs",
+              "RelativeToolTip": "..\\TaskManagement.Application\\ServiceContracts\\ITaskAdderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:13:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\UoW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Infrastructure\\Repositories\\UoW\\UnitOfWork.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\UoW\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\TaskManagement.Infrastructure\\Repositories\\UoW\\UnitOfWork.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:12:59.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "..\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:12:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:12:28.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Domain\\RepositoryInterfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Domain\\RepositoryInterfaces\\ITaskRepository.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Domain\\RepositoryInterfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "..\\TaskManagement.Domain\\RepositoryInterfaces\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:10:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Domain\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Domain\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Domain\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\TaskManagement.Domain\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:10:26.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\TaskManagement.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:51:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task.cs",
+              "DocumentMoniker": "W:\\TaskManagement\\TaskManagement.Domain\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagement.Domain\\Entities\\Task.cs",
+              "ToolTip": "W:\\TaskManagement\\TaskManagement.Domain\\Entities\\Task.cs",
+              "RelativeToolTip": "..\\TaskManagement.Domain\\Entities\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:51:20.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.case {
+
+    width: 18rem;
+    margin: 4px;
+
+}
+
+.cases {
+
+    max-height: 600px;
+    overflow-y: scroll;
+    width: 21rem;
+    border-radius: 10px;
+
+}

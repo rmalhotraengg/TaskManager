@@ -1,0 +1,17 @@
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.dll
+W:\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.pdb
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskMana.BCA0E1A6.Up2Date
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.dll
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\refint\TaskManagement.Infrastructure.dll
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.pdb
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+W:\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net8.0\ref\TaskManagement.Infrastructure.dll
